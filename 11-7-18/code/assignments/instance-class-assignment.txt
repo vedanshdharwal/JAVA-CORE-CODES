@@ -1,0 +1,17 @@
+create a class student 
+
+	data members		rno,name,marks,tp,tf
+	write the appropriate methods	to set / print the data
+	write the method to print the result pass/fail
+	write the method to print total pass / total fail candidates
+
+	create 10 student objects.
+	set the data for all 10
+	show the data for all 10
+	show the result for all 10
+	print how many have passed and how many have failed.
+
+	
+
+
+	

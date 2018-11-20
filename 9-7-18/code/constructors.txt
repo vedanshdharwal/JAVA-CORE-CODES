@@ -1,0 +1,73 @@
+Constructor
+-----------------
+1) method like bodies having same name as their class name and
+    no return type not even void also.
+
+2) may or may not have arguments.
+
+3) varargs can also be taken for constructors.
+
+4) can be overloaded also.
+
+5) they are called implicitly (automatically) during object creation.
+    (matching parameters)
+
+6) every class will be having at-least one constructor.
+
+7) you cant create any object without constructor execution.
+
+8) when you do not write any constructor from your side, one zero arg
+    constructor is internally supplied , called default constructor.
+
+9) once you write your own constructor, default will lost.
+
+10) usually they are used for initialization purpose.
+
+11) java do not provide a copy constructor.
+
+12) one constructor of a class can explicitly invoke (call) another constructor
+      using this keyword.
+	
+	for invoking  a constructor using this keyword
+	------------------------------------------------------------
+
+	a) matching args constructor must exists.
+	b) this must be the first statement of your constructor.
+	c) we cant directly call more than one constructor.
+	d) chaining is allowed.
+	e) no recursive calls are allowed for constructors.
+	f)  only a constructor can call another constructor
+	    (you cant invoke a constructor within a method)
+	    (though a method can be invoked within a constructor)
+
+	
+java do not support detructors.
+
+	memory management / garbage collection
+	--------------------------------------------------------
+	objects and references
+	--------------------------------
+	this reference
+	--------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

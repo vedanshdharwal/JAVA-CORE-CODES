@@ -1,0 +1,24 @@
+1) Sort a String array.
+2) Print the positions of all 'i' in given sentense.
+3) Count the no of capital alphabates, small alphabates
+   and digits in the given String.
+4) Check the id and password of the user.
+	correct id is "indore"
+	correct pwd is "india"
+	any case for id and pwd will be acceptable
+	(do this without using equalsIgnoreCase)
+5) User will pass a file name from command prompt
+   and your program will identify the type of file.
+6) One string contains names of many cities separated
+   by ','. print all the city names separately.
+	String s="indore,delhi,bhopal,chennai,pune";
+	(Dont use StringTokenizer class)
+	(Dont use split method of String class)
+7) Write a program to check, whether the given string
+   is a palindome or not. (without using StringBuffer)
+
+8) Write a program to check whether the given String
+   is a palindrome or not (using StringBuffer)
+	
+
+		

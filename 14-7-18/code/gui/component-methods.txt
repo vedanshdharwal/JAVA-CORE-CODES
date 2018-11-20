@@ -1,0 +1,26 @@
+Components
+-----------------------------
+
+
+	void setSize(int,int)
+	Dimension getSize()
+
+	void setLocation(int,int)
+	Point getLocation()
+
+	void setVisible(boolean)
+	boolean isVisible()
+
+	void setEnabled(boolean)
+	boolean isEnabled()
+
+	void setBackground(Color)
+	Color getBackgroun()
+
+	void setForeground(Color)
+	Color getForeground()
+
+
+
+
+	
